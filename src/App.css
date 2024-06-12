@@ -36,3 +36,44 @@
     transform: rotate(360deg);
   }
 }
+
+.custom-card{
+
+  width:100%;
+  max-width: 250px;
+  
+  
+}
+
+.custom-card img{
+  width: 100%;
+  height: 170px;
+  object-fit: cover;
+  border-radius: 20px;
+  
+}
+
+.nav{
+  color: rgb(47, 43, 43);
+  text-decoration: none;
+  font-weight: 500;
+  
+}
+
+.top{
+  background-color: aquamarine;
+}
+
+.restocard{
+
+  display: flex;
+  flex-direction: row;
+}
+.star{
+  display: flex;
+  flex-direction: row;
+}
+.font{
+  font-size: 25px;
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
