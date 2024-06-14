@@ -12,7 +12,10 @@ const Body =() =>{
        <Filters></Filters>
        <Searchbar></Searchbar>
        </div>
-      <Cardcontainer></Cardcontainer>
+       <div>
+       <Cardcontainer></Cardcontainer>
+       </div>
+      
        </>
     );
  }
